@@ -1,4 +1,4 @@
 streamlit
 numpy
 scipy
-plotly
+plotly<6
